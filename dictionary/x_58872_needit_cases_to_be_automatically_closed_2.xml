@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="75e8dc8183bd42107bdc9be0deaad3b4" extends="sys_import_set_row" label="Cases to be automatically closed_2" max_length="40" name="x_58872_needit_cases_to_be_automatically_closed_2" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Avdeling" label="Avdeling" max_length="51" name="u_avdeling" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Beskrivelse" label="Beskrivelse" max_length="3185" name="u_beskrivelse" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Kontaktperson" label="Kontaktperson" max_length="40" name="u_kontaktperson" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Kort beskrivelse" label="Kort beskrivelse" max_length="160" name="u_kort_beskrivelse" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nummer" label="Nummer" max_length="40" name="u_nummer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Oppdatert" label="Oppdatert" max_length="40" name="u_oppdatert" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Opprettet" label="Opprettet" max_length="40" name="u_opprettet" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Prioritet" label="Prioritet" max_length="40" name="u_prioritet" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Service offering Task type" label="Service offering Task type" max_length="40" name="u_service_offering_task_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Tilordnet til" label="Tilordnet til" max_length="40" name="u_tilordnet_til" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Tilordningsgruppe" label="Tilordningsgruppe" max_length="40" name="u_tilordningsgruppe" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Tilstand" label="Tilstand" max_length="40" name="u_tilstand" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=VendorRefID" label="VendorRefID" max_length="40" name="u_vendorrefid" type="string"/>
+    </element>
+</database>
